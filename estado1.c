@@ -9,7 +9,9 @@ int crono_carrera(int seg, int minu, int hora){
     seg=0,minu=0,hora=0;
     datos_t tiempo;
     long cantidad;
-    datos_t *corredor;
+    datos_t *corredor;   
+    corredor=(datos_t*)malloc(sizeof(datos_t));
+    if(!corredor) printf("ERROR de memoria");
 
     printf("los corredores son:  %d\n\n",corredor->numero_c);
     do{
