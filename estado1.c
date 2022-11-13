@@ -44,7 +44,7 @@ int main(){
     printf("\nNumero de Corredor --------  Tiempo: \n  -%d  -------- %.2d-",corredores->numero_c,tiempos);
 
 
-
+    free(corredores);
 
     return 0;
 }
