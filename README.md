@@ -1,5 +1,5 @@
-# Tp-correcciones
- ## Agregue algunos cambios
+# Tp-Carrera
+ ## Largada y toma de tiempo.
  
  Bueno Profe, trate de cambiar algunas cosas,
  el cronometro funciona.
